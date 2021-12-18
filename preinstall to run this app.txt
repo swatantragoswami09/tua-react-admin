@@ -1,0 +1,2 @@
+npm i react-router-dom react-redux apexcharts react-apexcharts --save
+npm i redux --save

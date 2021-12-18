@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tuareactadmin-dev-130539-authRole",
+      "UnauthRoleArn": "arn:aws:iam::488628654360:role/amplify-tuareactadmin-dev-130539-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::488628654360:role/amplify-tuareactadmin-dev-130539-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tuareactadmin-dev-130539-deployment",
+      "UnauthRoleName": "amplify-tuareactadmin-dev-130539-unauthRole",
+      "StackName": "amplify-tuareactadmin-dev-130539",
+      "StackId": "arn:aws:cloudformation:us-east-1:488628654360:stack/amplify-tuareactadmin-dev-130539/3c0574c0-5730-11ec-bb56-0ec98749ac69",
+      "AmplifyAppId": "d21yp0x6kpf15m"
+    },
+    "categories": {
+      "auth": {
+        "tuareactadmin399ddb30": {}
+      }
+    }
+  }
+}
